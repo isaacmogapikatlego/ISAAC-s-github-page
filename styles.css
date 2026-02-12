@@ -15,8 +15,8 @@ body{
 header{
     background-color:#4CAF50;
 
-    color:white
-    padding: B   20px;
+    color:white;
+    padding:B   20px;
 
     text-align:center;    
     
@@ -43,7 +43,7 @@ main{
 }
 
 main img {
-    max-width 100%;
+    max-width: 100% ;
     height:auto;
     margin: 20px 0
 
